@@ -1,0 +1,7 @@
+﻿# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Upstream repositories cloned locally for reference (never committed)
+repos/
